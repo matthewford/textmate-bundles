@@ -22,3 +22,15 @@
 [submodule "Bundles/Seperators.tmbundle"]
 	path = Bundles/Seperators.tmbundle
 	url = git://github.com/olly/seperators-tmbundle.git
+[submodule "Bundles/JQuery.tmbundle"]
+	path = Bundles/JQuery.tmbundle
+	url = git://github.com/kswedberg/jquery-tmbundle.git
+[submodule "Bundles/Sinatra.tmbundle"]
+	path = Bundles/Sinatra.tmbundle
+	url = git://github.com/foca/sinatra-tmbundle
+[submodule "Bundles/nginx.tmbundle"]
+	path = Bundles/nginx.tmbundle
+	url = git://github.com/johnmuhl/nginx-tmbundle.git
+[submodule "Bundles/objective-j.tmbundle"]
+	path = Bundles/objective-j.tmbundle
+	url = git://github.com/textmate/javascript-objective-j.tmbundle.git
